@@ -1,0 +1,71 @@
+filename,content
+2020.pdf,"Time allowed: Two HoursUniversity of Jaffna, Sri Lanka
+Bachelor of Science Degree Examination, Level 3G - 2021
+(End of Course Examination)
+Computer Science
+CSC301G3: Rapid Application Development
+Answer the First Question and Any Two of the Other Three
+This paper has 4 questions in a total of 3 pages
+1. Rapid Application Development (RAD) refers to a development life cycle designed to give much
+faster development and higher quality systems than the traditional life cycle.
+(a) Briefly describe the following pillars of RAD in your own words: [15%]
+i. Tools
+ii. Methodology
+iii. Management
+(b) State four benefits of RAD compared with traditional software development life cycle. [08%]
+(c) State four stages of a typical RAD life cycle. With the help of diagrams clearly show the
+sub-stages and tasks in each stages of RAD life cycle. [16%]
+(d) Conversion to a system is an approach to implementing a system to physically convert an
+old information system to a new or modified one. Explain the conversion technique direct
+changeover and describe why direct changeover is considered a risky approach to conversion.[06%]
+(e) Suppose you were asked to lead a Joint Application Design (JAD) session. List five guide-
+lines you would follow in playing the proper role as a JAD session leader. [05%]
+[50% Marks]
+2. Interviewing is an important method for collecting data on information system requirement.
+(a) Write three ways of structuring interviews and briefly describe how each of these basic
+methods can be useful for question sequencing. [09%]
+(b) State four advantages of observing workers and analysing business documents to determine
+system requirements. [04%]
+(c) Write three closed-ended questions that you might use in an interview of users of word-
+processing package in order to develop ideas for the next version of package. [06%]
+[Question 2 continues ...] CSC301G3-2021Continuation of Question 2... 2/3 CSC301G3-2021
+(d) List the participants of a Joint Application Design (JAD) session and briefly describe the
+responsiblities of each participants. [06%]
+[25 % marks]
+3. A common form of process model is a Data Flow Diagram (DFD).
+(a) Briefly discuss how DFDs can be used as an analysis tool. [06%]
+(b) One of the more difficult decisions you need to make when drawing DFDs is when to stop
+decomposition processes. State four concrete rules for stopping the decomposition process. [04%]
+Consider the following problem description about withdrawal of cash from an Automatic
+Teller Machine (ATM):
+To start an operation, a card is inserted in the slot, and the personal identification number
+(PIN) is entered. The ATM reads information from the card, in particular, the card number
+and the expiry date and accepts the PIN from the keyboard input. the card is verified for
+expiry date and then if valid, the card number and PIN are sent to the bank for card
+validation through communication circuit. The bank either sends confirmation or refusal.
+If the confirmation is received, the user is invited to enter a transaction type. Assuming
+that the transaction is a withdrawal of cash, one more validation is performed to check that
+the amount nominated is below or equal to the daily limit for withdrawals of Rs. 40,000.00,
+that the user’s weekly withdrawals do not exceed the weekly limit of Rs 200,000.00, and
+that the account balance is in credit to cover the withdrawal. If all these are satisfied the
+card is returned, the money is dispensed and withdrawal receipt is printed, with the date,
+account number, withdrawal amount and account balance. The bank account records are
+updated to reflect the transaction.
+i. Draw a context diagram to show how the system interact with the world around it. [05%]
+ii. Draw a level-0 data flow diagram. [10%]
+[25 % marks]
+4. Software validation and software testing are two essential components in the software develop-
+ment.
+(a) Define what is Software Testing. [03%]
+(b) Differentiate the following terms using valid points. [06%]
+[Question 4 continues ...] CSC301G3-2021Continuation of Question 4... 3/3 CSC301G3-2021
+i. Verification and Validation.
+ii. Testing and Debugging.
+iii. Black-box testing and White-box testing
+(c) State four advantages of automated testing compared to manual testing. [04%]
+(d) Explain how beta testing can help in detecting errors that may not have been anticipated
+by system builders. [04%]
+(e) Software testing process takes place in four stages. List and describe these stages and explain
+how each of these testing stages in improving the software quality. [08%]
+[25 % marks]
+End 31 January 2022"
