@@ -41,3 +41,23 @@ Direct PDF export uses `reportlab`. If it is not installed, the app still provid
 ## Privacy
 
 The app is rule-based and runs locally. It does not send resumes to an external API.
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### question 1
+![question 1](screenshots/question1.png)
+
+### question 2
+![question 2](screenshots/question2.png)
+
+### analysis
+![analysis](screenshots/analysis.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### History
+![History](screenshots/history.png)
